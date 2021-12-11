@@ -59,7 +59,7 @@ async def killdabot(event):
         await event.edit("`shutdown commad isn't permitted on channels`")
         return
 
-    await event.edit("`Goodbye *Windows XP shutdown sound*....`")
+    await event.edit("`Goodbye *Android Senpai shutdown sound*....`")
     if BOTLOG:
         await event.client.send_message(BOTLOG_CHATID, "#SHUTDOWN \n" "Bot shut down")
     await bot.disconnect()
@@ -141,7 +141,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "Click [here](https://github.com/fortifying/OUBnew) to open OUBnew-fortizer's GitHub page."
+        "Click [here](https://github.com) to open OUBnew-fortizer's GitHub page."
     )
 
 
