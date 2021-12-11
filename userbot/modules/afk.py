@@ -25,11 +25,11 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 AFKSTR = [
-    "I'm busy right now. Please talk in a bag and when I come back you can just give me the bag!",
-    "I'm away right now. If you need anything, leave a message after the beep:\n`beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeep`!",
-    "You missed me, next time aim better.",
-    "I'll be back in a few minutes and if I'm not...,\nwait longer.",
-    "I'm not here right now, so I'm probably somewhere else.",
+    "Gua Lagi sibuk gess. Please talk in a bag and when I come back you can just give me the bag!",
+    "Aku pergi sekarang. Jika Anda butuh sesuatu, tinggalkan pesan setelah bunyi bip:\n`beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeep`!",
+    "You merindukan saya, lain kali akan lebih baik.",
+    "Saya akan kembali dalam beberapa menit dan jika tidak...,\ntunggu aja lebih lama.",
+    "Gua tidak di sini sekarang, jadi gua mungkin di tempat lain.",
     "Roses are red,\nViolets are blue,\nLeave me a message,\nAnd I'll get back to you.",
     "Sometimes the best things in life are worth waiting for…\nI'll be right back.",
     "I'll be right back,\nbut if I'm not right back,\nI'll be back later.",
@@ -74,13 +74,13 @@ async def set_afk(afk_e):
     if string:
         AFKREASON = string
         await afk_e.edit(
-            f"__Gua AFK dulu Cvkk Ya!__\
+            f"__Gua AFK dulu Cvkk Ya!!__\
         \nReason: `{string}`"
         )
     else:
-        await afk_e.edit("__Gua AFK dulu Cvkk Ya!__")
+        await afk_e.edit("__Gua AFK dulu Cvkk Ya!!__")
     if BOTLOG:
-        await afk_e.client.send_message(BOTLOG_CHATID, "#AFK\nGua Sedang AFK Doloo Gess,,,NGOPI² dulu Biar Cerah Tu Muka!")
+        await afk_e.client.send_message(BOTLOG_CHATID, "#AFK\nGua AFK Doloo Gess,,,NGOPI² dulu Biar Cerah Tu Muka!!")
     ISAFK = True
     afk_time = datetime.now()  # pylint:disable=E0602
     raise StopPropagation
@@ -101,7 +101,7 @@ async def type_afk_is_not_true(notafk):
     afk_end = back_alive.replace(microsecond=0)
     if ISAFK:
         ISAFK = False
-        msg = await notafk.respond("Gua Kembali Gess,,,Yosh,,,gass lagi yok!")
+        msg = await notafk.respond("IGua Kembali Gess,,,Yosh,,,gass lagi yok.")
         time.sleep(3)
         await msg.delete()
         if BOTLOG:
@@ -181,24 +181,25 @@ async def mention_afk(mention):
                 if AFKREASON:
                     await mention.reply(
                         f"{str(choice(AFKSTR))}"
-                        f"\n\nMy SENPAI Lagi NGOPI+NGARIT,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
+                        f"\n\nMy SENPAI Lagi NGARIT+NGOPI,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
                         f"\nReason: `{AFKREASON}`"
                     )
                 else:
                     await mention.reply(
-                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK,,NGARIT+NGOPI, kata Senpai,,Ntahlah!!"
+                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK, NGARIT+NGOPI, kata Senpai,Ntahlah!"
+                    )
                 USERS.update({mention.sender_id: 1})
                 COUNT_MSG = COUNT_MSG + 1
             elif mention.sender_id in USERS:
                 if AFKREASON:
                     await mention.reply(
                         f"{str(choice(AFKSTR))}"
-                        f"\n\nMy SENPAI Lagi NGOPI+NGARIT,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
+                        f"\n\nMy SENPAI Lagi NGARIT+NGOPI,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
                         f"\nReason: `{AFKREASON}`"
                     )
                 else:
                     await mention.reply(
-                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK,,NGARIT+NGOPI, kata Senpai,,Ntahlah!!"
+                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK, NGARIT+NGOPI, kata Senpai,Ntahlah!"
                     )
                 USERS[mention.sender_id] = USERS[mention.sender_id] + 1
                 COUNT_MSG = COUNT_MSG + 1
@@ -268,12 +269,12 @@ async def afk_on_pm(sender):
                 if AFKREASON:
                     await sender.reply(
                         f"{str(choice(AFKSTR))}\n"
-                        f"\n\nMy SENPAI Lagi NGOPI+NGARIT,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
+                        f"\n\nMy SENPAI Lagi NGARIT+NGOPI,,,Ntar gua sampe'in,, My SENPAI offline Sejak {afk_since}"
                         f"\nReason: `{AFKREASON}`"
                     )
                 else:
                     await sender.reply(
-                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK,,NGARIT+NGOPI, kata Senpai,,Ntahlah!!"
+                        f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK, NGARIT+NGOPI, kata Senpai,Ntahlah!"
                     )
                 USERS.update({sender.sender_id: 1})
                 COUNT_MSG = COUNT_MSG + 1
@@ -281,13 +282,13 @@ async def afk_on_pm(sender):
                 if USERS[sender.sender_id] % randint(2, 4) == 0:
                     if AFKREASON:
                         await sender.reply(
-                            f"**Cvkk Gua Udah Bilang kan,My SENPAI Lagi NGOPI+NGARIT,,,Ntar gua sampe'in,, My SENPAI offline Sejak** {afk_since}.\
-                        \n**Leave your Message here and My Senpai Akan segera kembali..**\
+                            f"**Cvkk Gua Udah Bilang kan,My SENPAI Lagi NGOPI+NGARIT,,,Ntar gua sampein,,My SENPAI offline Sejak** {afk_since}.\
+                        \n**Leave your Message here,My Senpai Akan segera kembali.**\
                             \nAFK Reason: `{AFKREASON}`"
                         )
                     else:
                         await sender.reply(
-                            f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK,,NGARIT+NGOPI, kata Senpai,,Ntahlah!!"
+                            f"SORRY Gess,My Senpai [{user.first_name}](tg://user?id={user.id}) Lagi AFK, NGARIT+NGOPI, kata Senpai,Ntahlah!"
                         )
                 USERS[sender.sender_id] = USERS[sender.sender_id] + 1
                 COUNT_MSG = COUNT_MSG + 1
