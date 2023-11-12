@@ -950,6 +950,30 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 
 ########################################  SPORTS BOLA ########################################
 
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 SD World Cup ⚽ U-17 🇮🇩
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 HD World Cup ⚽ U-17 🇮🇩
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 FHD World Cup ⚽ U-17 🇮🇩
+https://sc2022.stream-link.org/tv2306.php?id=s19
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 SD World Cup ⚽ U-17 🇮🇩
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 HD World Cup ⚽ U-17 🇮🇩
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 FHD World Cup ⚽ U-17 🇮🇩
+https://sc2022.stream-link.org/tv2306.php?id=s20
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 3 FHD World Cup ⚽ U-17 🇮🇩
+https://sc2022.stream-link.org/tv2306.php?id=s21
+
+#EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 4 FHD World Cup ⚽ U-17 🇮🇩
+https://sc2022.stream-link.org/tv2306.php?id=s22
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORTS BOLA", MU TV
 ##https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
