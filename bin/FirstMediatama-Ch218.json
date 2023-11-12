@@ -1591,10 +1591,10 @@ https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
 https://www.googleapis.com/drive/v3/files/1_6mJZ08P-AmvNfs4DJBz0bq7UxiBQGum?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
