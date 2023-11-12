@@ -568,27 +568,35 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
 ########################################  SPORTS BOLA ########################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 SD World Cup ⚽ U-17 🇮🇩
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 HD World Cup ⚽ U-17 🇮🇩
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 1 FHD World Cup ⚽ U-17 🇮🇩
 https://sc2022.stream-link.org/tv2306.php?id=s19
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 SD World Cup ⚽ U-17 🇮🇩
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 HD World Cup ⚽ U-17 🇮🇩
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 2 FHD World Cup ⚽ U-17 🇮🇩
 https://sc2022.stream-link.org/tv2306.php?id=s20
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 3 FHD World Cup ⚽ U-17 🇮🇩
 https://sc2022.stream-link.org/tv2306.php?id=s21
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 group-title="SPORTS BOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm5Zucn8ElJnn3sdnZcuF_4cnTpVQAn7gHw&usqp=CAU", ASSP 4 FHD World Cup ⚽ U-17 🇮🇩
 https://sc2022.stream-link.org/tv2306.php?id=s22
 
