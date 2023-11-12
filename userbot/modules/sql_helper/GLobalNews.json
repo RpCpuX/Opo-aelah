@@ -3531,10 +3531,10 @@ https://pizztv.qreatifku.my.id/cdnweb/IDX.mpd
 https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
-https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
+https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xfv0o53chpd82im/wion.png" group-title="WEST NEWS", WION (V*)
 https://pizztv.qreatifku.my.id/cdnweb/WION.m3u8
