@@ -1,0 +1,158 @@
+#EXTM3U x-tvg-url=""  refresh="3600" Copi Ngentot!
+######################################## PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS ########################################
+                                               #### JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA  ####
+#EXTM3U x-tvg-url=""  refresh="3600" Copi Ngentot!
+
+######################################## CHANNELS INDONESIA ########################################
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="CHANNELS INDONESIA", ANTV 2
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="CHANNELS INDONESIA", INDOSIAR 720p
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI 1
+http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-id="RCTI.Id" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI HD (V*)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="CHANNELS INDONESIA", MNCTV HD
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 720p
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="CHANNELS INDONESIA", GTV 2
+https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANIME TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg", ANIPLUS
+https://mantul.biz.id:443/ekos/748382/265.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="ANIME TV" tvg-logo="https://dl.dropboxusercontent.com/s/6zbrigu3jkrncfr/animax.png", ANIMAX
+http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="ANIME TV", ANIME NURUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+########################################  CARTOON KIDZ ########################################
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropbox.com/s/wr9xjrptu20n4v7/Cinemachi%20kids.jpeg", CINEMACHI KIDS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropboxusercontent.com/s/3f1hmmdr8q0zt49/cbeebies.png", CBEEBIES
+http://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropboxusercontent.com/s/cjr6qn2k94yzkla/nickelodeon.png", NICKELODEON
+http://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ"  tvg-logo="https://dl.dropboxusercontent.com/s/79r505mfja8jp1i/kidstv.png", KIDS TV
+http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="CARTOON KIDZ",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg", PBS Kids  
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png", Zoo Moo *
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropboxusercontent.com/s/3f1hmmdr8q0zt49/cbeebies.png", CBeebies Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/200px-Nick_Jr._Channel_logo.svg.png", Nick Jr Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropboxusercontent.com/s/cjr6qn2k94yzkla/nickelodeon.png", Nickelodeon South East Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="CARTOON KIDZ", DreamWorks
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/vrzlb4pchkk30az/mkidz.png" group-title="CARTOON KIDZ", My Kidz B
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWFfLSHR7S8Y4SxQKNHJi6hxzcp701TKnf7EpxKkZ20T8VPI3X7GiETojRj1qSSSlsA&usqp=CAU" group-title="CARTOON KIDZ", Biznet Kids5
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://dl.dropbox.com/s/wr9xjrptu20n4v7/Cinemachi%20kids.jpeg", Cinemachi Kids *
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NETWORK HD
+https://1.yurend.xyz/dash-wv/linear/509/default_primary.mpd
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD9WJ4YeBMWQzW78hYYnHplO_Fv8DMc1Qiw&usqp=CAU", Talking Tom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD9WJ4YeBMWQzW78hYYnHplO_Fv8DMc1Qiw&usqp=CAU", Talking Tom Heroes
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://daveandava.com/images/posters/poster01.png", Dave And Ava
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://www.pngitem.com/pimgs/m/512-5125393_tayo-the-little-bus-tayo-the-little-bus.png", Tayo
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/200px-Nick_Jr._Channel_logo.svg.png" group-title="CARTOON KIDZ", NICK JR *
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekzgAiDiGHuoczUkKhzuEm8JhzwF9sFXakQ&usqp=CAU", Dunia Anak
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/264753
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-id="MoonbugKids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/1598px-Moonbug_Kids.svg.png", MoonbugKids (V*)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/CUBMU-DRMNEW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="CARTOON KIDZ" tvg-id="Boomerang.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANxce3tC5dyzvyOn_uy1xlCo73HMmhWeOhA&usqp=CAU", CARTOONITO (V*)
+https://github.com/andriwibowo2222/tvip/raw/main/cartoonito.m3u8
