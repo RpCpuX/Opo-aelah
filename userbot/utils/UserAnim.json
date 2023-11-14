@@ -563,7 +563,7 @@ http://oberon.whatbox.ca:29318/2022/AnimeHD/OnePiece/1083-720p.mp4
 1-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Nanatsu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45T9Oq43yXbiT_YL7W5MrtvxIKCFR_0qUVg&usqp=CAU", EPISODE 005
-#EXTGRP:(JAP) Nanatsu No Taizai Mokushiroku No Yonkishi ( 7 Deadly Sins 4 Knight Apocalypse )
+#EXTGRP:(JAP) Nanatsu No Taizai ( 7 Deadly Sins , Four Knight Apocalypse )
 http://oberon.whatbox.ca:29318/2023/AnimeHD/NanatsunoTaizaiMokushirokunoYonkishi/05-720p.mp4
 
 
@@ -672,5 +672,5 @@ http://oberon.whatbox.ca:29318/Bapuk/LiveAction/FightsBreakSphere/45.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.CHN) BATTLE THROUGH THE HEAVEN S2 Live Action
-#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKB9duFWRxMW3wqnETNCTP-7pmJOvSuskj_Q&usqp=CAU", S2 EPISODE 00
-http://oberober.mp4
+#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKB9duFWRxMW3wqnETNCTP-7pmJOvSuskj_Q&usqp=CAU", S2 EPISODE 001
+http://oberon.whatbox.ca:29318/Bapuk/LiveAction/FightsBreakSpheres2/01.mp4
