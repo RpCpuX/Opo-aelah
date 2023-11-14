@@ -6,7 +6,7 @@
 ########################################  DONGHUA TV ########################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="DubuXiaoyao.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
+#EXTINF:-1 tvg-id="DubuXiaoyao.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66CTmHi1EaeLbZw17Gk0ebBpjoW7Z1NKb6w&usqp=CAU", ONE
 #EXTGRP:(CHN) DONGHUA TV
 
 
@@ -14,32 +14,32 @@
 
 1-34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07PlN9Gb8zCw0YKqt5ih_9aTeYlfQunnyw&usqp=CAU", EPISODE 004
-#EXTGRP:(CHN) Doupo Cangqiong Nian Fan (Battle Through The Heaven S5)
+#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07PlN9Gb8zCw0YKqt5ih_9aTeYlfQunnyw&usqp=CAU", S5 EPISODE 004
+#EXTGRP:(CHN) Doupo Cangqiong Nian Fan ( Battle Through The Heaven S5 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/DoupoCangqiongNianFan/04-720p.mp4
 
 
 
 35-70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07PlN9Gb8zCw0YKqt5ih_9aTeYlfQunnyw&usqp=CAU", EPISODE 070
-#EXTGRP:(CHN) Doupo Cangqiong Nian Fan (Battle Through The Heaven S5)
+#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07PlN9Gb8zCw0YKqt5ih_9aTeYlfQunnyw&usqp=CAU", S5 EPISODE 070
+#EXTGRP:(CHN) Doupo Cangqiong Nian Fan ( Battle Through The Heaven S5 )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/DoupoCangqiongNianFan/70-720p.mp4
 
 
 
 100-234
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", EPISODE 234
-#EXTGRP:(CHN) Ling Jian Zun S4 (Spirit Sword Sovereign S4)
+#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", S4 EPISODE 234
+#EXTGRP:(CHN) Ling Jian Zun S4 ( Spirit Sword Sovereign S4 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/LingJianZun4thSeason/234.mp4
 
 
 
 235-262
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", EPISODE 258
-#EXTGRP:(CHN) Ling Jian Zun S4 (Spirit Sword Sovereign S4)
+#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", S4 EPISODE 258
+#EXTGRP:(CHN) Ling Jian Zun S4 ( Spirit Sword Sovereign S4 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/LingJianZun4thSeason/258-720p.mp4
 
 
@@ -47,8 +47,8 @@ http://tarvos.whatbox.ca:29318/New/DonghuaHD/LingJianZun4thSeason/258-720p.mp4
 
 263-334
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", EPISODE 334
-#EXTGRP:(CHN) Ling Jian Zun S4 (Spirit Sword Sovereign S4
+#EXTINF:-1 tvg-id="SpiritSS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmcBUmFyHeM7AXC-l7R-ZNA-3JTRKguUr5A&usqp=CAU", S4 EPISODE 334
+#EXTGRP:(CHN) Ling Jian Zun S4 ( Spirit Sword Sovereign S4 )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/LingJianZun4thSeason/334-720p.mp4
 
 
@@ -57,78 +57,78 @@ http://oberon.whatbox.ca:29318/2022/DonghuaHD/LingJianZun4thSeason/334-720p.mp4
 
 1-177
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="AgainstSkySupreme.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XbbD7imEejsb-BigjZv5cDaJjx880KX8vQ&usqp=CAU", EPISODE 249
-#EXTGRP:(CHN) Ni Tian Zhizun (Against Sky Supreme)
+#EXTINF:-1 tvg-id="AgainstSkySupreme.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XbbD7imEejsb-BigjZv5cDaJjx880KX8vQ&usqp=CAU", S1 EPISODE 249
+#EXTGRP:(CHN) Ni Tian Zhizun ( Against Sky Supreme )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/NiTianZhizun/177-720p.mp4
 
 178-249
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="AgainstSkySupreme.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XbbD7imEejsb-BigjZv5cDaJjx880KX8vQ&usqp=CAU", EPISODE 249
-#EXTGRP:(CHN) Ni Tian Zhizun (Against Sky Supreme)
+#EXTINF:-1 tvg-id="AgainstSkySupreme.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XbbD7imEejsb-BigjZv5cDaJjx880KX8vQ&usqp=CAU", S1 EPISODE 249
+#EXTGRP:(CHN) Ni Tian Zhizun ( Against Sky Supremeb)
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/NiTianZhizun/249-720p.mp4
 
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="MartialMaster.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
+#EXTINF:-1 tvg-id="MartialMaster.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdMHdm1ye7m5uLB2ybdn9K_FiBX8wXA4G5w&usqp=CAU", ONE
 #EXTGRP:(CHN) DONGHUA TV
 
 
 
 1-59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="TenThousand.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFJ0OzDcTr3eqrK-BeNjXdYjnY8qqb-Ok-Q&usqp=CAU", Episode 59
-#EXTGRP:(CHN) WanJie DuZun S2 (Supreme Ten Thousand World S2)
+#EXTINF:-1 tvg-id="TenThousand.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFJ0OzDcTr3eqrK-BeNjXdYjnY8qqb-Ok-Q&usqp=CAU", S2 Episode 59
+#EXTGRP:(CHN) WanJie DuZun S2 ( Supreme Ten Thousand World S2 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/WanJieDuZun2ndSeason/59-720p.mp4
 
 
 60-130
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="TenThousand.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFJ0OzDcTr3eqrK-BeNjXdYjnY8qqb-Ok-Q&usqp=CAU", Episode 130
-#EXTGRP:(CHN) WanJie DuZun S2 (Supreme Ten Thousand World S2)
+#EXTINF:-1 tvg-id="TenThousand.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFJ0OzDcTr3eqrK-BeNjXdYjnY8qqb-Ok-Q&usqp=CAU", S2 Episode 130
+#EXTGRP:(CHN) WanJie DuZun S2 ( Supreme Ten Thousand World S2 )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/WanJieDuZun2ndSeason/130-720p.mp4
 
 
 
 
 1-8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="100years.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6RtHcXF5i-iGzPTt5RbetiCmw2c6P5dMuA&usqp=CAU", EPISODE 008
-#EXTGRP:(CHN) Lian Qi Shi Wan Nian (100 Years Refining Qi)
+#EXTINF:-1 tvg-id="100years.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6RtHcXF5i-iGzPTt5RbetiCmw2c6P5dMuA&usqp=CAU", S1 EPISODE 008
+#EXTGRP:(CHN) Lian Qi Shi Wan Nian ( 100 Years Refining Qi )
 http://tarvos.whatbox.ca:29318/2023/DonghuaHD/LianQiShiWanNian/08-720p.mp4
 
 
 9-80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="100years.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6RtHcXF5i-iGzPTt5RbetiCmw2c6P5dMuA&usqp=CAU", EPISODE 080
-#EXTGRP:(CHN) Lian Qi Shi Wan Nian (100 Years Refining Qi)
+#EXTINF:-1 tvg-id="100years.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6RtHcXF5i-iGzPTt5RbetiCmw2c6P5dMuA&usqp=CAU", S1 EPISODE 080
+#EXTGRP:(CHN) Lian Qi Shi Wan Nian ( 100 Years Refining Qi )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/LianQiShiWanNian/80-720p.mp4
 
 
 
-1-17,19
-18-720
+1-17,19,20,22,26,28,30,32,34,36,38,40,42,44,46,47,49
+18-720p
+25-x264-720p
 
           
           51-57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", EPISODE 057
-#EXTGRP:(CHN) Wanmei Shijie (Perfect World)
+#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", S1 EPISODE 057
+#EXTGRP:(CHN) Wanmei Shijie ( Perfect World )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/WanmeiShijie/57.mp4
 
 58-100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", EPISODE 100
-#EXTGRP:(CHN) Wanmei Shijie (Perfect World)
+#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", S1 EPISODE 100
+#EXTGRP:(CHN) Wanmei Shijie ( Perfect World )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/WanmeiShijie/100-720p.mp4
 
 
 101-136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", EPISODE 136
-#EXTGRP:(CHN) Wanmei Shijie (Perfect World)
+#EXTINF:-1 tvg-id="PerfectWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDt_xWiZWVFgXjW4clt_uq8fs4n0WbxIkNQ&usqp=CAU", S1 EPISODE 136
+#EXTGRP:(CHN) Wanmei Shijie ( Perfect World )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/WanmeiShijie/136-720p.mp4
 
 
@@ -150,58 +150,74 @@ http://oberon.whatbox.ca:29318/2022/DonghuaHD/WanmeiShijie/136-720p.mp4
 
 
 
+1-96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Wonderland.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0QajIhGwmmEV6iXzGXEfCgXureUbvBFuGg&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id="Wonderland.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0QajIhGwmmEV6iXzGXEfCgXureUbvBFuGg&usqp=CAU", S5 EPISODE 001
+#EXTGRP:(CHN) WanJie XianZong S5 ( WONDERLAND S5 )
+http://tarvos.whatbox.ca:29318/New/DonghuaHD/WanJieXianZong5thSeason/01.mp4
 
+97-179
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Wonderland.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0QajIhGwmmEV6iXzGXEfCgXureUbvBFuGg&usqp=CAU", S5 EPISODE 179
+#EXTGRP:(CHN) WanJie XianZong S5 ( WONDERLAND S5 )
+http://tarvos.whatbox.ca:29318/New/DonghuaHD/WanJieXianZong5thSeason/179-720p.mp4
+
+
+
+
+180-224
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Wonderland.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0QajIhGwmmEV6iXzGXEfCgXureUbvBFuGg&usqp=CAU", S5 EPISODE 224
+#EXTGRP:(CHN) WanJie XianZong S5 ( WONDERLAND S5 )
+http://oberon.whatbox.ca:29318/2022/DonghuaHD/WanJieXianZong5thSeason/224-720p.mp4
 
 
 
 
 (1-10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="XianNi.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNjAr-WOcdVzCYnQ_Odc2JrFFTMX56auUOA&usqp=CAU", EPISODE 010
-#EXTGRP:(CHN) XIAN NI (Renegade Immortal)
+#EXTINF:-1 tvg-id="XianNi.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNjAr-WOcdVzCYnQ_Odc2JrFFTMX56auUOA&usqp=CAU", S1 EPISODE 010
+#EXTGRP:(CHN) XIAN NI ( Renegade Immortal )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/XianNi/10-720p.mp4
 
 
 
 1-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="XianWuChuan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv7gM9APnPY4kza0O270-IWoohWmX0DhBXNg&usqp=CAU", EPISODE 008
-#EXTGRP:(CHN) Xian Wu Chuan S2 (Legend Martial Immortal S2)
+#EXTINF:-1 tvg-id="XianWuChuan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv7gM9APnPY4kza0O270-IWoohWmX0DhBXNg&usqp=CAU", S2 EPISODE 008
+#EXTGRP:(CHN) Xian Wu Chuan S2 ( Legend Martial Immortal S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/XianWuChuan2/08-720p.mp4
 
 
 
 1-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Honghuangling.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3SOIQ_u3dnSlFZYKNhZyKp3TRHZb-t9vtw&usqp=CAU", EPISODE 022
-#EXTGRP:(CHN) Honghuang Ling Zun (Great Desolation Spirit Sovereign)
+#EXTINF:-1 tvg-id="Honghuangling.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3SOIQ_u3dnSlFZYKNhZyKp3TRHZb-t9vtw&usqp=CAU", S1 EPISODE 022
+#EXTGRP:(CHN) Honghuang Ling Zun ( Great Desolation Spirit Sovereign )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/HonghuangLingZun/22-720p.mp4
 
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ShifangWuSheng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3eqM_x_OlH1s8uo7DewxGNrYZdqcJoIKDA&usqp=CAU", EPISODE 001
-#EXTGRP:(CHN) Shi Fang Wu Sheng (The Invisible)
+#EXTINF:-1 tvg-id="ShifangWuSheng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3eqM_x_OlH1s8uo7DewxGNrYZdqcJoIKDA&usqp=CAU", S1 EPISODE 001
+#EXTGRP:(CHN) Shi Fang Wu Sheng ( The Invisible )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/ShiFangWuSheng/01-720p.mp4
 
 
 
 1-44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="WuhangZhanshen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUM5wRTfzzlDADudd5mFGDcWgSI8Qh7m1qvA&usqp=CAU", EPISODE 044
-#EXTGRP:(CHN) Wuhang Zhanshen (5 Element God Of War)
+#EXTINF:-1 tvg-id="WuhangZhanshen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUM5wRTfzzlDADudd5mFGDcWgSI8Qh7m1qvA&usqp=CAU", S1 EPISODE 044
+#EXTGRP:(CHN) Wuhang Zhanshen ( 5 Element God Of War )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/WuhangZhanshen/44-720p.mp4
 
 
 
 1-47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ZenWuDianfeng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvvMeY9HKjoyRXxMl6Q63tsPEUkAy_1KiDA&usqp=CAU", EPISODE 047
-#EXTGRP:(CHN) Zhen Wu Dianfeng S2 (Peak True Martial Arts S2
+#EXTINF:-1 tvg-id="ZenWuDianfeng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvvMeY9HKjoyRXxMl6Q63tsPEUkAy_1KiDA&usqp=CAU", S2 EPISODE 047
+#EXTGRP:(CHN) Zhen Wu Dianfeng S2 ( Peak True Martial Arts S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/ZhenWuDianfeng2ndSeason/47-720p.mp4
 
 
@@ -209,168 +225,166 @@ http://oberon.whatbox.ca:29318/2023/DonghuaHD/ZhenWuDianfeng2ndSeason/47-720p.mp
  1-26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="SanqianDao.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_o6b6YV10XY1wp1Qd-7-WxSXFUYTsLiKtQ&usqp=CAU", S2 Episode 026
-#EXTGRP:(CHN) Wu Ying Sanqian Dao S2 (Three Thousand Roads S2)
+#EXTGRP:(CHN) Wu Ying Sanqian Dao S2 ( Three Thousand Roads S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/WuYingSanqianDao2ndS/26-720p.mp4
 
 
 
 1-32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="GaishiDizun.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMGv4paTMsj1kLinlc5bs6lU7itAaY7P62Q&usqp=CAU", EPISODE 032
-#EXTGRP:(CHN) Gaishi Dizun (Matchless Emperor)
+#EXTINF:-1 tvg-id="GaishiDizun.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMGv4paTMsj1kLinlc5bs6lU7itAaY7P62Q&usqp=CAU", EPISODE S1 032
+#EXTGRP:(CHN) Gaishi Dizun ( Matchless Emperor )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/GaishiDizun/32-720p.mp4
 
 
 
 1-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="WanJieZhizun.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeV3q60hSxoqsQ76ys9gfvZJmjavThTXBVWA&usqp=CAU", EPISODE 014
-#EXTGRP:(CHN) Wan Jie Zhizun S2 (Myriad Realm Supreme S2)
+#EXTINF:-1 tvg-id="WanJieZhizun.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeV3q60hSxoqsQ76ys9gfvZJmjavThTXBVWA&usqp=CAU", S2 EPISODE 014
+#EXTGRP:(CHN) Wan Jie Zhizun S2 ( Myriad Realm Supreme S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/WanJieZhizun2ndSeason/14-720p.mp4
 
 
 1-6
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JianyuFengyun.id" tvg-logo="https://cdn.myanimelist.net/images/anime/1344/139142l.jpg", EPISODE 006
-#EXTGRP:(CHN) Jian Yu Feng Yun S3
+#EXTINF:-1 tvg-id="JianyuFengyun.id" tvg-logo="https://cdn.myanimelist.net/images/anime/1344/139142l.jpg", S3 EPISODE 006
+#EXTGRP:(CHN) Jian Yu Feng Yun S3 ( Spirit Sword Domain S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/JianYuFengYun3rdS/06-720p.mp4
 
 
 
-
+1-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JianXianChuan.id" tvg-logo="https://cdn.myanimelist.net/images/anime/1426/139209l.jpg", EPISODE 005
-#EXTGRP:(CHN) TiYi Jian Xian Chuan (Legend Taiyi Sword Immortal)
+#EXTINF:-1 tvg-id="JianXianChuan.id" tvg-logo="https://cdn.myanimelist.net/images/anime/1426/139209l.jpg", S1 EPISODE 005
+#EXTGRP:(CHN) TiYi Jian Xian Chuan ( Legend Taiyi Sword Immortal )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/TiYiJianXianChuan/05-720p.mp4
 
 
 1-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="DubuWangu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHocL3LDL6arC_Tty9Tzx4dQh4tjdNJt-HQ&usqp=CAU", EPISODE 015
-#EXTGRP:(CHN) Dubu Wangu (Glorious Revenge Ye Feng)
+#EXTINF:-1 tvg-id="DubuWangu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHocL3LDL6arC_Tty9Tzx4dQh4tjdNJt-HQ&usqp=CAU", S1 EPISODE 015
+#EXTGRP:(CHN) Dubu Wangu ( Glorious Revenge Ye Feng )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/DubuWangu/15-720p.mp4
 
 
 1-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="CangYuanTu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SsPvhhepC3KJni1pkV-01umIzJJ8_Kizrg&usqp=CAU", EPISODE 022
-#EXTGRP:(CHN) Cang Yuan Tu (Azure legacy)
+#EXTINF:-1 tvg-id="CangYuanTu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SsPvhhepC3KJni1pkV-01umIzJJ8_Kizrg&usqp=CAU", S1 EPISODE 022
+#EXTGRP:(CHN) Cang Yuan Tu ( Azure legacy )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/CangYuanTu/22-720p.mp4
 
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="TianGuanCifu.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
-
-
 
 1-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ShaonianGexing.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiN5PXiHRzGQs_AUsyQqdIioBSgd74_MmKQ&usqp=CAU", EPISODE 004
-#EXTGRP:(CHN) ShaonianGeXing Haiwa iXianshan Pian S3 (Great Journey Teenagers S3)
+#EXTINF:-1 tvg-id="ShaonianGexing.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiN5PXiHRzGQs_AUsyQqdIioBSgd74_MmKQ&usqp=CAU", S3 EPISODE 004
+#EXTGRP:(CHN) ShaonianGeXing Haiwa iXianshan Pian S3 ( Great Journey Teenagers S3 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/ShaonianGeXingHaiwaiXianshanPian/04-720p.mp4
 
 
 
 1-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Xiuluo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jiRH2A74TXs7RpESnIeh8Gw0USYRWC9FZg&usqp=CAU", EPISODE 008
-#EXTGRP:(CHN) Xiuluo WuShen (Martial Gods Asura)
+#EXTINF:-1 tvg-id="Xiuluo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jiRH2A74TXs7RpESnIeh8Gw0USYRWC9FZg&usqp=CAU", S1 EPISODE 008
+#EXTGRP:(CHN) Xiuluo WuShen ( Martial Gods Asura )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/XiuluoWuShen/08-720p.mp4
 
 
 
 1-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="XixingJi.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReZzodW9c7XgnI-3Vn7iHxMsyhYths2QJ8Q&usqp=CAU", Episode 018
-#EXTGRP:(CHN) XiXingJi NianFan (Journey To The Westward S5)
+#EXTINF:-1 tvg-id="XixingJi.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReZzodW9c7XgnI-3Vn7iHxMsyhYths2QJ8Q&usqp=CAU", S5 Episode 018
+#EXTGRP:(CHN) XiXingJi NianFan ( Journey To The Westward S5 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/XiXingJiNianFan/18-720p.mp4
 
 
 
 1-28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Chuanshuo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCVHTk-T-ON-ViE7dlqClWPbufC1S2c3UvQ&usqp=CAU", EPISODE 028
-#EXTGRP:(CHN) Mo Zhuang Chuanshuo (Magic Outfits)
+#EXTINF:-1 tvg-id="Chuanshuo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCVHTk-T-ON-ViE7dlqClWPbufC1S2c3UvQ&usqp=CAU", S1 EPISODE 028
+#EXTGRP:(CHN) Mo Zhuang Chuanshuo ( The Magic Outfits )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/MoZhuangChuanshuo/28-720p.mp4
 
 
 
 1-30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ZeTian.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhP7g6yJGJFI9N0ARhmT2WtPz-NReGgFuGw&usqp=CAU", EPISODE 030
-#EXTGRP:(CHN) Zhe Tian
+#EXTINF:-1 tvg-id="ZeTian.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhP7g6yJGJFI9N0ARhmT2WtPz-NReGgFuGw&usqp=CAU", S1 EPISODE 030
+#EXTGRP:(CHN) Zhe Tian ( Shrouding Heaven )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/ZheTian/30-720p.mp4
+
 
 
 
 1-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Jiuchong.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKO4mDml_JVDiRoff1MWm9JHW80w8EDmb_Tg&usqp=CAU", EPISODE 007
-#EXTGRP:(CHN) Aoshi Jiuchong Tian (Transcending Nine Heaven)
+#EXTINF:-1 tvg-id="Jiuchong.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKO4mDml_JVDiRoff1MWm9JHW80w8EDmb_Tg&usqp=CAU", S1 EPISODE 007
+#EXTGRP:(CHN) Aoshi Jiuchong Tian ( Transcending Nine Heaven )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/AoshiJiuchongTian/07-720p.mp4
 
 
 
 1-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="QihouBilu.id" tvg-logo="https://media.myshows.me/shows/small/6/cb/6cb18188eb8b297774cec86cdfab4f54.jpg", EPISODE 003
-#EXTGRP:(CHN) QiHou Bilu (Spirits Chinese Brushless)
+#EXTINF:-1 tvg-id="QihouBilu.id" tvg-logo="https://media.myshows.me/shows/small/6/cb/6cb18188eb8b297774cec86cdfab4f54.jpg", S1 EPISODE 003
+#EXTGRP:(CHN) QiHou Bilu ( Spirits Chinese Brushless )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/QiHouBilu/03-720p.mp4
 
 
 1-22
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Douluo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQAbXNcdz18l7TDWFQxXDEWWcA1w4AYAHdA&usqp=CAU", EPISODE 022
-#EXTGRP:(CHN) Douluo Dalu S2 JueshiTangmen (Unrivalled Tang Sect S2)
+#EXTINF:-1 tvg-id="Douluo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQAbXNcdz18l7TDWFQxXDEWWcA1w4AYAHdA&usqp=CAU", S2 EPISODE 022
+#EXTGRP:(CHN) Douluo Dalu S2 JueshiTangmen ( Unrivalled Tang Sect S2 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/DouluoDaluIIJueshiTangmen/22-720p.mp4
 
 
 
-
+1-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="NiTianXieshen.id" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk3YzRhNGYtNDA1Mi00ZWY0LTk3ZjYtNmMwNDE0MmJlZDdhXkEyXkFqcGdeQXVyNjMxMTE5NTY@._V1_.jpg", EPISODE 010
-#EXTGRP:(CHN) NiTian Xieshen (AGAINST THE GOSD)
+#EXTINF:-1 tvg-id="NiTianXieshen.id" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk3YzRhNGYtNDA1Mi00ZWY0LTk3ZjYtNmMwNDE0MmJlZDdhXkEyXkFqcGdeQXVyNjMxMTE5NTY@._V1_.jpg", S1 EPISODE 010
+#EXTGRP:(CHN) NiTian Xieshen ( AGAINST THE GOSD )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/NiTianXieshen/10-720p.mp4
 
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="TunshiXingkong.id-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31bRALwJY8bA29DrowaO4lGWeBuSkTUv3Ag&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
-
+#EXTINF:-1 tvg-id="TunshiXingkong.id-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31bRALwJY8bA29DrowaO4lGWeBuSkTUv3Ag&usqp=CAU", S4 EPISODE 007
+#EXTGRP:(CHN) Tunshi Xingkong S4 ( SWALLOWED STARS S4 )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/TunshiXingkong4thSeason/07-720p.mp4
 
 
 1-62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="WanguShenhua.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWagDHSXFQ91pOCwqQY-s2GlrgqyH9Pggx_w&usqp=CAU", Episode 001
-#EXTGRP:(CHN) WANGU SHENHUA (Ancient Myth)
+#EXTINF:-1 tvg-id="WanguShenhua.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWagDHSXFQ91pOCwqQY-s2GlrgqyH9Pggx_w&usqp=CAU", S1 Episode 001
+#EXTGRP:(CHN) WANGU SHENHUA ( Ancient Myth )
 http://tarvos.whatbox.ca:29318/2022/DonghuaHD/WanguShenhua/01-720p.mp4
 
-63-134
 
+
+
+63-134
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="WanguShenhua.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWagDHSXFQ91pOCwqQY-s2GlrgqyH9Pggx_w&usqp=CAU", Episode 068
-#EXTGRP:(CHN) WANGU SHENHUA (Ancient Myth)
+#EXTINF:-1 tvg-id="WanguShenhua.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWagDHSXFQ91pOCwqQY-s2GlrgqyH9Pggx_w&usqp=CAU", S1 Episode 068
+#EXTGRP:(CHN) WANGU SHENHUA ( Ancient Myth )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/WanguShenhua/68-720p.mp4
+
+
 
 
 
 1-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Binghuomochu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4IsD6oyKcqWnWHswgZBtf82zW19bxpEqbw&usqp=CAU", EOISODE 015
-#EXTGRP:(CHN) Bing Huo Mo Chu (Magic Chief Ice & Fire S2)
+#EXTINF:-1 tvg-id="Binghuomochu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4IsD6oyKcqWnWHswgZBtf82zW19bxpEqbw&usqp=CAU", S2 EPISODE 015
+#EXTGRP:(CHN) Bing Huo Mo Chu ( Magic Chief Ice & Fire S2 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/BingHuoMoChu2/15-720p.mp4
 
 16-64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Binghuomochu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWo20BeGSpnwczviskv1nnAwrlxnZoAbYVEQ&usqp=CAU", EOISODE 064
-#EXTGRP:(CHN) Bing Huo Mo Chu (Magic Chief Ice & Fire S2)
+#EXTINF:-1 tvg-id="Binghuomochu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWo20BeGSpnwczviskv1nnAwrlxnZoAbYVEQ&usqp=CAU", S2 EPISODE 064
+#EXTGRP:(CHN) Bing Huo Mo Chu ( Magic Chief Ice & Fire S2 )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/BingHuoMoChu2/64-720p.mp4
 
 
@@ -379,98 +393,129 @@ http://oberon.whatbox.ca:29318/2022/DonghuaHD/BingHuoMoChu2/64-720p.mp4
 
 1-46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JianGu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-DmzquaTWSbKuuAKMdpjSCwZnBaFctXLMg&usqp=CAU", EPISODE 046
-#EXTGRP:(CHN) Jian Gu (Sword Bone)
+#EXTINF:-1 tvg-id="JianGu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-DmzquaTWSbKuuAKMdpjSCwZnBaFctXLMg&usqp=CAU", S1 EPISODE 046
+#EXTGRP:(CHN) Jian Gu ( Sword Bone )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/JianGu/46-720p.mp4
 
 
 
 1-51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JiuTianXuan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsTnRQkFNLrb3_NUZj6xNCK8Np5J1A3Q2lTA&usqp=CAU", EPISODE 051
-#EXTGRP:(CHN) JIU TIAN XUAN DIJUE S4 (Xuan Yuan Emperor S4)
+#EXTINF:-1 tvg-id="JiuTianXuan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsTnRQkFNLrb3_NUZj6xNCK8Np5J1A3Q2lTA&usqp=CAU", S4 EPISODE 051
+#EXTGRP:(CHN) JIU TIAN XUAN DIJUE S4 ( Xuan Yuan Emperor S4 )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/JiuTianXuanDiJue4/51-720p.mp4
 
 
 
+
+
+
+1-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id=" ShenLan.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id=" ShenLan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWkfstpQgXGHF0KNy2G3KfzPXIt20TG55VQ&usqp=CAU", S2 Episode 008 #Ended
+#EXTGRP:(CHN) ShenLan QiYu Wushuang Zhu S2 ( Land Of Miracle S2 )
+http://tarvos.whatbox.ca:29318/2023/DonghuaHD/ShenLanQiYuWushuangZhu2ndSeason/08-720p.mp4
 
-
-
-
+10-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="AnheZhuan.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id=" ShenLan.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWkfstpQgXGHF0KNy2G3KfzPXIt20TG55VQ&usqp=CAU", S2 Episode 015 #Ended
+#EXTGRP:(CHN) ShenLan QiYu Wushuang Zhu S2 ( Land Of Miracle S2 )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/ShenLanQiYuWushuangZhu2ndSeason/15-720p.mp4
 
 
-
-
+1H12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="BaiLianCengshen.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id="AnheZhuan.id" tvg-logo="https://images-s.kinorium.com/movie/poster/10466246/w1500_51879980.jpg", S1 EPISODE 012
+#EXTGRP:(CHN) Anhe Zhuan ( Tales Of The Dark Rivers )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/AnheZhuan/12-720p.mp4
 
 
 
 
+
+1-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="BaiLianFeisheng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKNkEe5crsTJ__1qQJo8TfgGlJWGiQTl0SQ&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id="BaiLianCengshen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRng0Ozd3AhNyGxf62PP7QoY9lsb912H5mk6A&usqp=CAU", S1 EPISODE 019
+#EXTGRP:(CHN) BaiLian ChengShen ( Aphoteosis )
+http://tarvos.whatbox.ca:29318/New/DonghuaHD/BaiLianChengShen/19-720p.mp4
 
 
-
-
+20-52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="DiYiXuli.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2X7WEszyUou0Y4xmGwYcD1QPvkxlcZbFkg&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id="BaiLianCengshen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRng0Ozd3AhNyGxf62PP7QoY9lsb912H5mk6A&usqp=CAU", S1 EPISODE 052
+#EXTGRP:(CHN) BaiLian ChengShen ( Aphoteosis )
+http://oberon.whatbox.ca:29318/2022/DonghuaHD/BaiLianChengShen/52-720p.mp4
 
 
 
 
 
+1-60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="BanShen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeABa_OeWB42gQySZ2gvVc_VD2W5snUqAvTA&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="DouXian.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="YongShen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZiJTGDN0tTd_PvN1ma19EiEWvj_OO66cvg&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA TV
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JinyiShen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRve7RfoGR-25rqngMf0VpBJOkK36MHFjhkPA&usqp=CAU", ONE
-#EXTGRP:(CHN) DONGHUA 
+#EXTINF:-1 tvg-id="BaiLianFeisheng.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNmrN0kmeZZCwUK4H_LqGT2iAl-tfiIphww&usqp=CAU", S1 EPISODE 060
+#EXTGRP:(CHN) BaiLian FeishengLu ( Hundreds Refining Soaring Records )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/BaiLianFeishengLu/60-720p.mp4
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="QingLian.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
-#EXTGRP:(CHN) DONGHUA TV
+#EXTINF:-1 tvg-id="DiYiXuli.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2X7WEszyUou0Y4xmGwYcD1QPvkxlcZbFkg&usqp=CAU", S1 EPISODE 016 #ENDED
+#EXTGRP:(CHN) DiYi Xulie ( First Order )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/DiYiXulie/16-720p.mp4
+
+
+
+
+
+1h14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="DuoXian.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHgUjw_kA9dxduwyyvWZiBbC63an5Kkbleg&usqp=CAU", S1 EPISODE 014
+#EXTGRP:(CHN) DuoXuan Shi ( Fallen Mystic Master )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/DuoXuanShi/14-720p.mp4
+
+
+
+1h12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="YongShen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZiJTGDN0tTd_PvN1ma19EiEWvj_OO66cvg&usqp=CAU", S2 EPISODE 012
+#EXTGRP:(CHN) YongSheng ShiNian ZhiYue ( IMMORTALITY S2 )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/YongShengShiNianZhiYue/12-720p.mp4
+
+
+1h4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="JinyiShen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRve7RfoGR-25rqngMf0VpBJOkK36MHFjhkPA&usqp=CAU", S1 Episode 004
+#EXTGRP:(CHN) Jiny iShen Jiag  ( Carpenter Of Assassin's )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/JinyiShenJiag/04-720p.mp4
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="QingLian.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 EPISODE 001
+#EXTGRP:(CHN) QingLian JianXian Chuan ( Legend Lotus Sword Fairy S1 )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/QingLianJianXianChuan/01-04-720p.mp4
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="QingLian.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 EPISODE 054 #ended
+#EXTGRP:(CHN) QingLian JianXian Chuan ( Legend Lotus Sword Fairy S1 )
+http://oberon.whatbox.ca:29318/2023/DonghuaHD/QingLianJianXianChuan/54-720p.mp4
 
 
 1-37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="JiuChen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZEiPKckWp-8EtbPRQ94hHDkW7QyeuhBTug&usqp=CAU", EPISODE 037
-#EXTGRP:(CHN) JiuChen Fengyun Lu (Adventure Of Yang Chen)
+#EXTINF:-1 tvg-id="JiuChen.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZEiPKckWp-8EtbPRQ94hHDkW7QyeuhBTug&usqp=CAU", S1 EPISODE 037
+#EXTGRP:(CHN) JiuChen Fengyun Lu ( Adventure Of Yang Chen )
 http://oberon.whatbox.ca:29318/2023/DonghuaHD/JiuChenFengyunLu/37-720p.mp4
+
+
+
 
 1-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ShenYinWangzuo2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgwiBp9j8cvg3V_4PiEDEOg-X1u1ybkKkxw&usqp=CAU", EPISODE 017
-#EXTGRP:(CHN) Shen Yin Wangzuo S2 (Throne Of Seal S2)
+#EXTINF:-1 tvg-id="ShenYinWangzuo2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgwiBp9j8cvg3V_4PiEDEOg-X1u1ybkKkxw&usqp=CAU", S2 EPISODE 017
+#EXTGRP:(CHN) Shen Yin Wangzuo S2 ( Throne Of Seal S2 )
 http://tarvos.whatbox.ca:29318/New/DonghuaHD/ShenYinWangzuo2/17-720p.mp4
 
 
@@ -478,8 +523,8 @@ http://tarvos.whatbox.ca:29318/New/DonghuaHD/ShenYinWangzuo2/17-720p.mp4
 
 19-54
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="ShenYinWangzuo2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgwiBp9j8cvg3V_4PiEDEOg-X1u1ybkKkxw&usqp=CAU", EPISODE 054
-#EXTGRP:(CHN) Shen Yin Wangzuo S2 (Throne Of Seal S2)
+#EXTINF:-1 tvg-id="ShenYinWangzuo2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgwiBp9j8cvg3V_4PiEDEOg-X1u1ybkKkxw&usqp=CAU", S2 EPISODE 054
+#EXTGRP:(CHN) Shen Yin Wangzuo S2 ( Throne Of Seal S2 )
 http://oberon.whatbox.ca:29318/2022/DonghuaHD/ShenYinWangzuo2/54-720p.mp4
 
 ########################################  ANIME TV ########################################
@@ -488,21 +533,21 @@ http://oberon.whatbox.ca:29318/2022/DonghuaHD/ShenYinWangzuo2/54-720p.mp4
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Bungou.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
+#EXTINF:-1 tvg-id="Bungou.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpz2OJY_kQmlaSJzba3f4ZFSEmlgSwIKnHA&usqp=CAU", ONE
 #EXTGRP:(JAP) DONGHUA TV
 
 
 
 1-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Jujutsu.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", EPISODE 15
-#EXTGRP: Jujutsu Kaisen S2 (Sorcery Foght .JJK S2)
+#EXTINF:-1 tvg-id="Jujutsu.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S2 EPISODE 15
+#EXTGRP:(JAP) Jujutsu Kaisen S2 (bSorcery Foght .JJK S2 )
 http://oberon.whatbox.ca:29318/2023/AnimeHD/JujutsuKaisen2nd/15-720p.mp4
 
 
 1050-53
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="OnePiece.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfsicUWaBUhfjveFQ6rsj_P1J5-sKP2arWA&usqp=CAU", EPISODE 1053
+#EXTINF:-1 tvg-id="OnePiece.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfsicUWaBUhfjveFQ6rsj_P1J5-sKP2arWA&usqp=CAU",  EPISODE 1053
 #EXTGRP:(JAP) ONE PIECE SERIES
 http://tarvos.whatbox.ca:29318/New/AnimeHD/OnePiece/1001-1100/1053-720p.mp4
 
@@ -517,14 +562,14 @@ http://oberon.whatbox.ca:29318/2022/AnimeHD/OnePiece/1083-720p.mp4
 
 1-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Nanatsu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqbMimgVolp1r1eR69-D5UIkOPsxdUPRCow&usqp=CAU", EPISODE 005
-#EXTGRP:(JAP) Nanatsu No Taizai Mokushiroku No Yonkishi (7 Deadly Sins 4 Knight Apocalypse)
+#EXTINF:-1 tvg-id="Nanatsu.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45T9Oq43yXbiT_YL7W5MrtvxIKCFR_0qUVg&usqp=CAU", EPISODE 005
+#EXTGRP:(JAP) Nanatsu No Taizai Mokushiroku No Yonkishi ( 7 Deadly Sins 4 Knight Apocalypse )
 http://oberon.whatbox.ca:29318/2023/AnimeHD/NanatsunoTaizaiMokushirokunoYonkishi/05-720p.mp4
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="TokyoRevenge.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE
+#EXTINF:-1 tvg-id="TokyoRevenge.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpjuyY_fiL5kaJTCzRFCo62TFqEgB51aW7A&usqp=CAU", ONE
 #EXTGRP:(JAP) DONGHUA TV
 
 
@@ -574,48 +619,58 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c100093709
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #1
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #1
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/01-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #2
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #2
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/02-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #3
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #3
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/03-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #4
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #4
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/04-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #5
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #5
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/05-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #6
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #6
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/06-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #7
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #7
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/07-720p.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTGRP:(LA.JPN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", ONE PIECE #8(Ended)
+#EXTINF:-1 tvg-id="LiveAction.id" tvg-logo="https://hardrockfm.com/wp-content/uploads/2023/09/one-piece-live-action-1-640x494.png", S1 ONE PIECE #8(Ended)
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
 
 
 
 
+1-45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTGRP:(LA.CHN) BATTLE THROUGH THE HEAVEN S1 Live Action
+#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d4kXKD3pxPjdczaeuX-TGJ52xquii7CBhg&usqp=CAU", S1 EPISODE 45 #(Ended)
+http://oberon.whatbox.ca:29318/Bapuk/LiveAction/FightsBreakSphere/45.mp4
+
+
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTGRP:(LA.CHN) ONE PIECE Live Action
-#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Fight_Break_Sphere_drama_poster.jpeg", ONE PIECE #8(Ended)
+#EXTGRP:(LA.CHN) BATTLE THROUGH THE HEAVEN S2 Live Action
+#EXTINF:-1 tvg-id="BTTHS5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKB9duFWRxMW3wqnETNCTP-7pmJOvSuskj_Q&usqp=CAU", S2 EPISODE 00
+http://oberober.mp4
