@@ -13560,6 +13560,41 @@ http://oberon.whatbox.ca:29318/2022/DonghuaHD/ShenYinWangzuo2/60-720p.mp4
 ########################################  ANIME TV ########################################
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="ANIME TV" tvg-id="Naruto.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz07oM1M3mgORGCynQefm9EdGZpHAevatmMg&usqp=CAU", ANIME NURUTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="ANIME TV" tvg-id="OnePiece.us" tvg-logo="https://raw.githubusercontent.com/RpCpuX/Nntahlah/7bb2be748d242ad030b89859fdd85391adb33d7b/resources/onepiece.jpg", ANIME ONE PIECE (V*)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="ANIME TV" tvg-id="AnimeAllDay.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXt_49kdS9ULreOYtedji6mLn1qeIM_pwHQw&usqp=CAU", Anime All Day (V*)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="ANIME TV" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", Aniplus HD (V*)
+#EXTGRP:ANIME TV
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANIME TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg", ANIPLUS
+https://mantul.biz.id:443/ekos/748382/265.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="ANIME TV" tvg-logo="https://dl.dropboxusercontent.com/s/6zbrigu3jkrncfr/animax.png", ANIMAX
+http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="ANIME TV", ANIME NURUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#######################################################################################################################################
+
 
 ####1-15####
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -14214,38 +14249,10 @@ http://oberon.whatbox.ca:29318/2023/AnimeHD/TatenoYuushanoNariagariS3/11-720p.mp
 
 
 
-#######################################################################################################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ANIME TV" tvg-id="Naruto.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz07oM1M3mgORGCynQefm9EdGZpHAevatmMg&usqp=CAU", ANIME NURUTO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ANIME TV" tvg-id="OnePiece.us" tvg-logo="https://raw.githubusercontent.com/RpCpuX/Nntahlah/7bb2be748d242ad030b89859fdd85391adb33d7b/resources/onepiece.jpg", ANIME ONE PIECE (V*)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ANIME TV" tvg-id="AnimeAllDay.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXt_49kdS9ULreOYtedji6mLn1qeIM_pwHQw&usqp=CAU", Anime All Day (V*)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="ANIME TV" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", Aniplus HD (V*)
-#EXTGRP:ANIME TV
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANIME TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg", ANIPLUS
-https://mantul.biz.id:443/ekos/748382/265.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="ANIME TV" tvg-logo="https://dl.dropboxusercontent.com/s/6zbrigu3jkrncfr/animax.png", ANIMAX
-http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="ANIME TV", ANIME NURUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ##############################################################################################
@@ -14296,41 +14303,41 @@ http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
 
 ###############################################################
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgm1ppg94Mj5Le3wz6o-iXHcVOZhNKSDJFhg&usqp=CAU", A RULES MEANT TO BE BROKEN
-#EXTGRP:(JAP) GINTAMA LIVE ACTION
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgm1ppg94Mj5Le3wz6o-iXHcVOZhNKSDJFhg&usqp=CAU", RULES MEANT TO BE BROKEN
+#EXTGRP:(LA.JPN) GINTAMA LIVE ACTION
 http://tarvos.whatbox.ca:29318/LiveAction/Gintama2RulesAreMeantToBeBroken%282018%29%20LIAC.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE 1 YONIMO KIMYO GINTAMA CHAN
-#EXTGRP:(JAP) GINTAMA LIVE ACTION 
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 1
+#EXTGRP:(LA.JPN) GINTAMA LIVE ACTION 
 http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan01.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE 2 YONIMO KIMYO GINTAMA CHAN
-#EXTGRP:(JAP) GINTAMA LIVE ACTION
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 2
+#EXTGRP:(LA.JPN) GINTAMA LIVE ACTION
 http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan02.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE 3 YONIMO KIMYO GINTAMA CHAN
-#EXTGRP:(JAP) GINTAMA LIVE ACTION 
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 3
+#EXTGRP:(LA.JPN) GINTAMA LIVE ACTION 
 http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan03.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEBPzlTOrkUBbXTnWkHYxEFujYC7Swf03gw&usqp=CAU", GINTAMA BENIZAKURA-HEN
-#EXTGRP:(JAP) GINTAMA LIVE ACTION
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEBPzlTOrkUBbXTnWkHYxEFujYC7Swf03gw&usqp=CAU", GINTAMA Benizakura-Hen
+#EXTGRP:(LA.JPN) GINTAMA LIVE ACTION
 http://tarvos.whatbox.ca:29318/LiveAction/Gintama1Benizakura%282017%29LIAC.mp4
 
 
 ###############################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzM8jWXbFd2dqC_1CJEm-JGlb-G0FIFduWQ&usqp=CAU", KINGDOM S1
-#EXTGRP:(JAP) KINGDOM LIVE ACTION 
+#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzM8jWXbFd2dqC_1CJEm-JGlb-G0FIFduWQ&usqp=CAU", KINGDOM Season 1
+#EXTGRP:(LA.JPN) KINGDOM LIVE ACTION 
 http://tarvos.whatbox.ca:29318/LiveAction/Kingdom_Live_Action_Movie.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBvUcCFFxriCbgo2ogE7buAl-VSH7NqBjRQ&usqp=CAU", KINGDOM S2
-#EXTGRP:(JAP) KINGDOM LIVE ACTION
+#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBvUcCFFxriCbgo2ogE7buAl-VSH7NqBjRQ&usqp=CAU", KINGDOM Season 2
+#EXTGRP:(LA.JPN) KINGDOM LIVE ACTION
 http://mandarin.whatbox.ca:29318/Movie/Kingdom-2-480p.mp4
 
 
@@ -14622,8 +14629,8 @@ http://oberon.whatbox.ca:29318/Bapuk/LiveAction/FightsBreakSpheres2/07.mp4
 
 
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", S E L A M A T ! ! !
 #https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAt EXPIRED!!!
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", P L A Y L I S T  S A Y A   H A P U S ! ! ! 🤣🤭🤭🤗🤗🤗🙈🙈😊😊👍👍👌
 #https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
