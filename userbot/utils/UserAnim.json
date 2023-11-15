@@ -14293,6 +14293,48 @@ http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/07-720p.mp4
 http://oberon.whatbox.ca:29318/2023/LiveAction/OnePiece/08-720p.mp4
 
 
+
+###############################################################
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgm1ppg94Mj5Le3wz6o-iXHcVOZhNKSDJFhg&usqp=CAU", RULES MEANT TO BE BROKEN
+#EXTGRP:(JAP) GINTAMA LIVE ACTION
+http://tarvos.whatbox.ca:29318/LiveAction/Gintama2RulesAreMeantToBeBroken%282018%29%20LIAC.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 1
+#EXTGRP:(JAP) GINTAMA LIVE ACTION 
+http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan01.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 2
+#EXTGRP:(JAP) GINTAMA LIVE ACTION
+http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan02.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://i.mydramalist.com/lyZ66f.jpg", EPISODE YONIMO KIMYO GINTAMA CHAN 3
+#EXTGRP:(JAP) GINTAMA LIVE ACTION 
+http://umbriel.whatbox.ca:29318/Dagelan/Complete/Gintama/301_END/Gintama2YonimoKimyonaGintama-chan03.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="gintama.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEBPzlTOrkUBbXTnWkHYxEFujYC7Swf03gw&usqp=CAU", GINTAMA Benizakura-Hen
+#EXTGRP:(JAP) GINTAMA LIVE ACTION
+http://tarvos.whatbox.ca:29318/LiveAction/Gintama1Benizakura%282017%29LIAC.mp4
+
+
+###############################################################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzM8jWXbFd2dqC_1CJEm-JGlb-G0FIFduWQ&usqp=CAU", KINGDOM S1
+#EXTGRP:(JAP) KINGDOM LIVE ACTION 
+http://tarvos.whatbox.ca:29318/LiveAction/Kingdom_Live_Action_Movie.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="kingdom.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBvUcCFFxriCbgo2ogE7buAl-VSH7NqBjRQ&usqp=CAU", KINGDOM S2
+#EXTGRP:(JAP) KINGDOM LIVE ACTION
+http://mandarin.whatbox.ca:29318/Movie/Kingdom-2-480p.mp4
+
+
+
 #########################################################################################################################################
 #########################################################################################################################################
 
